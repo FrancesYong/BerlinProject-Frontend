@@ -1,0 +1,136 @@
+[
+    {
+        "id": "1",
+        "sumber": "images/1-nature.jpg",
+        "judul": "Forest",
+        "kategori": "Nature"
+    },
+    {
+        "id": "2",
+        "sumber": "images/2-nature.jpg",
+        "judul": "Bird",
+        "kategori": "Nature"
+    },
+    {
+        "id": "3",
+        "sumber": "images/4-nature.jpg",
+        "judul": "Sunrise",
+        "kategori": "Nature"
+    },
+    {
+        "id": "4",
+        "sumber": "images/5-nature.jpg",
+        "judul": "Greenery",
+        "kategori": "Nature"
+    },
+    {
+        "id": "5",
+        "sumber": "images/8-nature.jpg",
+        "judul": "Bird",
+        "kategori": "Nature"
+    },
+    {
+        "id": "6",
+        "sumber": "images/9-nature.jpg",
+        "judul": "Flower",
+        "kategori": "Nature"
+    },
+    {
+        "id": "7",
+        "sumber": "images/10-people.jpg",
+        "judul": "Model",
+        "kategori": "People"
+    },
+
+
+    {
+        "id": "8",
+        "sumber": "images/11-people.jpg",
+        "judul": "Cute",
+        "kategori": "People"
+    },
+    {
+        "id": "9",
+        "sumber": "images/13-people.jpg",
+        "judul": "Model",
+        "kategori": "People"
+    },
+    {
+        "id": "10",
+        "sumber": "images/14-people.jpg",
+        "judul": "Model",
+        "kategori": "People"
+    },
+    {
+        "id": "11",
+        "sumber": "images/16-people.jpg",
+        "judul": "Model",
+        "kategori": "People"
+    },
+    {
+        "id": "12",
+        "sumber": "images/17-people.jpg",
+        "judul": "Model",
+        "kategori": "People"
+    },
+    {
+        "id": "13",
+        "sumber": "images/18-computer.jpg",
+        "judul": "Laptop",
+        "kategori": "Computer"
+    },
+    {
+        "id": "14",
+        "sumber": "images/19-computer.jpg",
+        "judul": "Laptop",
+        "kategori": "Computer"
+    },
+    {
+        "id": "15",
+        "sumber": "images/20-computer.jpg",
+        "judul": "Laptop",
+        "kategori": "Computer"
+    },
+    {
+        "id": "16",
+        "sumber": "images/23-computer.jpg",
+        "judul": "Laptop",
+        "kategori": "Computer"
+    },
+    {
+        "id": "17",
+        "sumber": "images/24-computer.jpg",
+        "judul": "Laptop",
+        "kategori": "Computer"
+    },
+    {
+        "id": "18",
+        "sumber": "images/26-food.jpg",
+        "judul": "Fruit Salad",
+        "kategori": "Food"
+    },
+    {
+        "id": "19",
+        "sumber": "images/27-food.jpg",
+        "judul": "Orange",
+        "kategori": "Food"
+    },
+    {
+        "id": "20",
+        "sumber": "images/28-food.jpg",
+        "judul": "Lemon Tea",
+        "kategori": "Food"
+    },
+    {
+        "id": "21",
+        "sumber": "images/29-food.jpg",
+        "judul": "Fruit Salad",
+        "kategori": "Food"
+    },
+    {
+        "id": "22",
+        "sumber": "images/30-food.jpg",
+        "judul": "Pasta",
+        "kategori": "Food"
+    }
+]
