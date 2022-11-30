@@ -28,28 +28,28 @@ function content() {
         <div className="container px-0">
             <div className="pp-gallery">
             <div className="card-columns">
-                <div className="card" data-groups="[&quot;nature&quot;]"><a href="image-detail.html">
+                <div className="card" data-groups="[&quot;nature&quot;]"><a href="image-detail copy.html">
                     <figure className="pp-effect"><img className="img-fluid" src={DataGalery[0].sumber} alt="Nature" />
                     <figcaption>
                         <div className="h4">{DataGalery[0].judul}</div>
                         <p>{DataGalery[0].kategori}</p>
                     </figcaption>
                     </figure></a></div>
-                <div className="card" data-groups="[&quot;nature&quot;]"><a href="image-detail.html">
+                <div className="card" data-groups="[&quot;nature&quot;]"><a href="image-detail copy 2.html">
                     <figure className="pp-effect"><img className="img-fluid" src={DataGalery[1].sumber} alt="Nature" />
                     <figcaption>
                         <div className="h4">{DataGalery[1].judul}</div>
                         <p>{DataGalery[1].kategori}</p>
                     </figcaption>
                     </figure></a></div>
-                <div className="card" data-groups="[&quot;nature&quot;]"><a href="image-detail.html">
+                <div className="card" data-groups="[&quot;nature&quot;]"><a href="image-detail copy 3.html">
                     <figure className="pp-effect"><img className="img-fluid" src={DataGalery[2].sumber} alt="Nature" />
                     <figcaption>
                         <div className="h4">{DataGalery[2].judul}</div>
                         <p>{DataGalery[2].kategori}</p>
                     </figcaption>
                     </figure></a></div>
-                <div className="card" data-groups="[&quot;nature&quot;]"><a href="image-detail.html">
+                <div className="card" data-groups="[&quot;nature&quot;]"><a href="image-detail copy 4.html">
                     <figure className="pp-effect"><img className="img-fluid" src={DataGalery[3].sumber} alt="Nature" />
                     <figcaption>
                         <div className="h4">{DataGalery[3].judul}</div>
