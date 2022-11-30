@@ -13,10 +13,10 @@ function index() {
                 </li>
                 <li className="nav-item"><a className="nav-link" href="about.html">About</a>
                 </li>
-                {/* <li className="nav-item"><a className="nav-link" href="blog.html">Blog</a>
+                <li className="nav-item"><a className="nav-link" href="blog.html">Blog</a>
                 </li>
                 <li className="nav-item"><a className="nav-link" href="contact.html">Contact</a>
-                </li> */}
+                </li>
                 </ul>
             </div>
             </div>
